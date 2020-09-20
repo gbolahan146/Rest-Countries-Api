@@ -1,3 +1,6 @@
+
+[Hosted on](https://amazing-fermat-050d1d.netlify.app/)
+
 # Frontend Mentor - REST Countries API with color theme switcher
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
